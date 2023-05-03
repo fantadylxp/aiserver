@@ -1,6 +1,6 @@
 #ifndef MAINWINDOW_H
 #define MAINWINDOW_H
-
+#include "ui_main_window.h"
 #include <QMainWindow>
 #include "PrecScanWindow.h"
 #include"opencv2/opencv.hpp"
