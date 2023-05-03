@@ -3,6 +3,7 @@
 
 #include <QMainWindow>
 #include "PrecScanWindow.h"
+#include"opencv2/opencv.hpp"
 
 QT_BEGIN_NAMESPACE
 namespace Ui { class MainWindow; }
