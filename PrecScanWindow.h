@@ -3,10 +3,11 @@
 
 #include <QWidget>
 #include<QFrame>
-
-namespace Ui {
-class PrecScanWindow;
-}
+#include "ui_ps_image.h"
+// namespace Ui {
+// class PrecScanWindow;
+// class dsds{int i;};
+// }
 
 class PrecScanWindow : public QFrame
 {
